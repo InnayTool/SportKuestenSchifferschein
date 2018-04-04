@@ -1,0 +1,2 @@
+# SportKuestenSchifferschein
+wichtiges Wissen für den Sportküstenschifferschein
