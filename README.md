@@ -3,7 +3,16 @@ wichtiges Wissen für den Sportküstenschifferschein
 
 ## Institutionen
 - [Bundesamt für Schifffahrt und Hydrographie (BSH)](http://bsh.de)
-- 
+- [Wasserstaraßen und Schifffahrtsverwaltung (WSV)](https://www.wsv.de/)
+  - Generaldirektion Wasserstraßen und Schifffahrt
+  - Wasserstraßen- und Schifffahrtsdirektionen (WSV) (aufgelößt übergegangen in Bereiche der Wasserstraßenämter):
+    - Nord
+    - Nordwest
+    - West
+    - Mitte
+    - Südwest
+    - Süd
+    - Ost
 
 ## Veröffentlichungen
 - [NfS](http://www.bsh.de/de/Schifffahrt/Sportschifffahrt/Berichtigungsservice_NfS/Liste_der_Mitteilungen/index.jsp)
@@ -11,6 +20,7 @@ wichtiges Wissen für den Sportküstenschifferschein
 - [Seekarten](http://www.bsh.de/de/Produkte/Karten/Seekarten/index.jsp)
 - [Sportbootkarten](http://www.bsh.de/de/Produkte/Karten/Sportbootkarten/index.jsp)
 - [See](http://www.bsh.de/de/Produkte/Buecher/Seehandbuecher/index.jsp)- und Hafenhandbücher
+  - http://www.skipperguide.de/wiki/Hauptseite
 - [N.T.M.](https://www.admiralty.co.uk/maritime-safety-information/admiralty-notices-to-mariners)
 - [Leuchtfeuerverzeichnis](http://www.bsh.de/de/Produkte/Buecher/Leuchtfeuerverzeichnis/index.jsp)
   - http://www.listoflights.org/
@@ -21,6 +31,9 @@ wichtiges Wissen für den Sportküstenschifferschein
 - [NWN](http://www.bsh.de/de/Schifffahrt/Berufsschifffahrt/Nautische_Warnnachrichten/index.jsp)
 - [Gezeitentafel](http://www.bsh.de/de/Produkte/Buecher/Gezeitentafeln/index.jsp)
 - https://www.geoseaportal.de
+
+## Literatur
+- http://www.bsh.de/de/Das_BSH/Organisation/Bibliothek/983.jsp
 
 ## Leuchtfeuer
 - Leitfeuer (Direction lights)
