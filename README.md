@@ -19,8 +19,16 @@ wichtiges Wissen für den Sportküstenschifferschein
 - [BfS](https://www.elwis.de/DE/dynamisch/BfS/)
 - [Seekarten](http://www.bsh.de/de/Produkte/Karten/Seekarten/index.jsp)
 - [Sportbootkarten](http://www.bsh.de/de/Produkte/Karten/Sportbootkarten/index.jsp)
-- [See](http://www.bsh.de/de/Produkte/Buecher/Seehandbuecher/index.jsp)- und Hafenhandbücher
+- [Seehandbücher](http://www.bsh.de/de/Produkte/Buecher/Seehandbuecher/index.jsp)
   - http://www.skipperguide.de/wiki/Hauptseite
+  - Struktur
+    - Schifffahrtsangelegenheiten
+    - Naturverhältnisse
+    - Küstenkunde und Segelanweisungen
+- Hafenhandbücher
+- Hafenführer
+- Revierführer
+- Monatskarten
 - [N.T.M.](https://www.admiralty.co.uk/maritime-safety-information/admiralty-notices-to-mariners)
 - [Leuchtfeuerverzeichnis](http://www.bsh.de/de/Produkte/Buecher/Leuchtfeuerverzeichnis/index.jsp)
   - http://www.listoflights.org/
@@ -55,4 +63,26 @@ Seehandbücher des BSH
 - Naturverhältnisse
 - Küstenkunde und Segelanweisungen
 
+## Technische Einrichtungen
+- AIS
+- GPS
+- DGPS
+ 
+## Nord-Ostsee-Kanal
 
+## Sicherheit
+- [Verordnung über die Sicherheit  der Seefahrt](https://www.gesetze-im-internet.de/seefsichv_1993/SeeFSichV_1993.pdf)
+- [Sicherheit auf dem Wasser, Wichtige Regeln und Tipps für Wassersportler](http://www.bsh.de/de/Produkte/Infomaterial/Sicherheit_auf_dem_Wasser/Sicherheit_auf_dem_Wasser.pdf)
+- [Sicherheit im See- und Küstenbereich, Sorgfaltsregeln für Wassersportler](https://www.sailtraining.de/fileadmin/files/intern/Ausbildung/SicherSeeKueste.pdf)
+  - https://www.seefunkschule-nrw.de/resources/BSHSicherheit2001.PDF
+- Seeunfalluntersuchung https://www.bsu-bund.de
+-
+
+## Entsorgung
+- [MARPOL](http://www.bsh.de/en/Marine_data/Environmental_protection/MARPOL_Convention/index.jsp)
+- Entsorgungsmöglichkeiten für Öl, Schiffsmüll und Schiffsabwässer - eine Übersicht für Sport- und Kleinschiff
+fahrt
+## Funk
+- [Handbuch nautischer Funksienst](http://www.bsh.de/de/Produkte/Buecher/NautischerFunkdienst/index.jsp)
+- [Jachtfunkdienst](http://www.bsh.de/de/Produkte/Buecher/Jachtfunkdienst/index.jsp)
+- [Admiralty List of Radio Signals](https://www.admiralty.co.uk/publications/publications-and-reference-guides/admiralty-list-of-radio-signals)
